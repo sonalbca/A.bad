@@ -1,6 +1,2 @@
-#include.conio.h>
-#include.stdio.h>
-main
-{
-printf"hello woeld"
-getch
+hello modify
+hello baby
